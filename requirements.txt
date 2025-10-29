@@ -1,6 +1,6 @@
 pyrogram==2.0.106
 tgcrypto==1.2.3
-pytgcalls==2.4.0
+pytgcalls==2.1.0
 yt-dlp==2025.10.28
 ffmpeg-python==0.2.0
 imageio[ffmpeg]==2.31.1
